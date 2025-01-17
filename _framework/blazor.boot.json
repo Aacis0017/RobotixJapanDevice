@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RobotixJapanDevice",
   "resources": {
-    "hash": "sha256-0+VKO8PM4LHuJPjiaGyZJ4oSnWHbT5ZJcLexhvMJciQ=",
+    "hash": "sha256-rVIeikvpM5BvhIyH/p3d2u9SyEG1lMfn6PtViJUgXN8=",
     "fingerprinting": {
       "BrowserInterop.i6emsn5i23.wasm": "BrowserInterop.wasm",
       "Microsoft.AspNetCore.Components.b31yqoo70t.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -21,7 +21,7 @@
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "netstandard.zqphpuxm6d.wasm": "netstandard.wasm",
       "Newtonsoft.Json.qkbufwhni2.wasm": "Newtonsoft.Json.wasm",
-      "RobotixJapanDevice.gth41miszi.wasm": "RobotixJapanDevice.wasm",
+      "RobotixJapanDevice.dknujt84li.wasm": "RobotixJapanDevice.wasm",
       "System.Collections.Concurrent.4lwtfqh74w.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.jxadlu6tsx.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.w21ldx28om.wasm": "System.Collections.NonGeneric.wasm",
@@ -112,7 +112,7 @@
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "sha256-99wG3VH14sWkwPaF5rX6YAcJvtAhDuqonwihvj2m5HA=",
       "netstandard.zqphpuxm6d.wasm": "sha256-mx2BuHNp9r49ktBkHP/kNJsewBKtOXoHew0yNGz81LE=",
       "Newtonsoft.Json.qkbufwhni2.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
-      "RobotixJapanDevice.gth41miszi.wasm": "sha256-NAzgW1yYgyESlr4fxxMWIvXFpi1dvcG/wnzK88E9N1Y=",
+      "RobotixJapanDevice.dknujt84li.wasm": "sha256-MyaA5yBoFcqoXDd4p695M+8WJ8qYNYIzningIv/gVP0=",
       "System.Collections.Concurrent.4lwtfqh74w.wasm": "sha256-yM6tthLPysafygagTyZEA5/KoDLMABCcsWZ8ofnj8GQ=",
       "System.Collections.Immutable.jxadlu6tsx.wasm": "sha256-l4XK0rR/L78FfNdGce1vcbD5+zauHcLnVajffKICdgc=",
       "System.Collections.NonGeneric.w21ldx28om.wasm": "sha256-SJYUcmdiJQ2+uUqHKxHQ/P74RFwIpHTfj+QiovwpP60=",
